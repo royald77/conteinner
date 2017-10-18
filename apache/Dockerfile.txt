@@ -1,7 +1,6 @@
 # Container used to test Content Management feature
 #
 # VERSION               1.0.0
-
 FROM opensuse
 MAINTAINER Michele Bologna <michele.bologna@suse.com>
 
